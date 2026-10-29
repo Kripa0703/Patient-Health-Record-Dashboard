@@ -93,3 +93,5 @@ The saved models were trained with scikit-learn 1.6.1, so keep that version pinn
 - Risk levels (Low / Monitor / Elevated / High) are fixed probability cut-offs for display,
   not clinical thresholds, and are not adjusted for each condition's base rate.
 - Predictions estimate the likelihood of a diagnosis, not a diagnosis itself.
+
+**Live demo:** https://patient-health-record-dashboard.streamlit.app/
